@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on raylib
-- 📫 How to reach me ...
+- 📫 If you need me contact me at biterrnano@gmail.com
 
 <!---
 biterr-nano/biterr-nano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
